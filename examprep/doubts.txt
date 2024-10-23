@@ -1,0 +1,5 @@
+1)4 bit adder subtractro question
+2)waveform for multiple bit variables
+3)2 digit bcd adder
+4)Write Verilog code to implement full adder. Perform AND, NAND, NOR, OR, XOR,XNOR operations using full adder circuit.
+5)

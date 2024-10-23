@@ -1,0 +1,132 @@
+$date
+	Sat Oct  5 10:25:06 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module reduced_tb $end
+$var wire 3 ! state [2:0] $end
+$var wire 1 " out $end
+$var reg 1 # clk $end
+$var reg 1 $ x $end
+$scope module mod $end
+$var wire 1 # clk $end
+$var wire 1 % j0 $end
+$var wire 1 & j1 $end
+$var wire 1 ' j2 $end
+$var wire 1 ( k1 $end
+$var wire 1 ) k2 $end
+$var wire 1 $ x $end
+$var wire 1 * z $end
+$var wire 3 + state [2:0] $end
+$var wire 1 , k0 $end
+$var reg 1 " out $end
+$scope module ff0 $end
+$var wire 1 # clk $end
+$var wire 1 % j $end
+$var wire 1 , k $end
+$var reg 1 - q $end
+$upscope $end
+$scope module ff1 $end
+$var wire 1 # clk $end
+$var wire 1 & j $end
+$var wire 1 ( k $end
+$var reg 1 . q $end
+$upscope $end
+$scope module ff2 $end
+$var wire 1 # clk $end
+$var wire 1 ' j $end
+$var wire 1 ) k $end
+$var reg 1 / q $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0/
+0.
+0-
+x,
+b0 +
+0*
+0)
+0(
+0'
+1&
+0%
+0$
+0#
+x"
+b0 !
+$end
+#10
+1*
+0,
+b10 !
+b10 +
+1.
+1#
+#20
+0*
+0&
+1(
+1)
+1%
+1,
+1$
+0#
+#30
+b0 !
+b0 +
+0.
+0*
+1&
+0(
+0)
+0%
+x,
+0$
+1#
+#40
+0&
+1(
+1)
+1%
+1$
+0#
+#50
+1&
+0(
+0)
+0%
+0$
+1#
+#60
+0#
+#70
+1*
+0,
+b10 !
+b10 +
+1.
+1#
+#80
+0#
+#90
+1#
+#100
+0#
+#110
+1#
+#120
+0#
+#130
+1#
+#140
+0#
+#150
+1#

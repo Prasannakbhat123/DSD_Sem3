@@ -1,0 +1,59 @@
+$date
+	Sat Aug 31 09:33:04 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module decoder2to4_tb $end
+$var wire 4 ! op [3:0] $end
+$var reg 1 " en $end
+$var reg 2 # w [1:0] $end
+$scope module d2t4 $end
+$var wire 1 " en $end
+$var wire 2 $ w [1:0] $end
+$var reg 4 % o [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 %
+b0 $
+b0 #
+0"
+b1 !
+$end
+#20
+b10 !
+b10 %
+b1 #
+b1 $
+#40
+b100 !
+b100 %
+b10 #
+b10 $
+#60
+b1000 !
+b1000 %
+b11 #
+b11 $
+#80
+b0 !
+b0 %
+b0 #
+b0 $
+1"
+#100
+b1 #
+b1 $
+#120
+b10 #
+b10 $
+#140
+b11 #
+b11 $
+#160
